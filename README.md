@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Artur Bazzanella<br>Porto Alegre - RS - Brasil<br>Formando em Técnico em Informática<br><a href="https://www.fonzie.com.br">www.fonzie.com.br</a><br><a href="mailto:artur@fonzie.com.br">artur@fonzie.com.br</a></p>
+<p align="left">Artur Bazzanella<br>Porto Alegre - RS - Brasil<br>Formando para Técnico em Informática<br><a href="https://www.fonzie.com.br">www.fonzie.com.br</a><br><a href="mailto:artur@fonzie.com.br">artur@fonzie.com.br</a></p>
 
 ###
 
-<p align="left">✨ Trajetória de evolução<br>📚 Buscando conhecimento<br>🎯 Criador da Fonzie Agência Digital<br>🎲 Corredor, Kite Surfista,</p>
+<p align="left">✨ Trajetória em evolução na tecnologia.<br>📚 Se<br>🎯 Criador da Fonzie Agência Digital<br>🎲 Corredor, Kite Surfista,</p>
 
 ###
 
