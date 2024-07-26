@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Trajetória em evolução na tecnologia.<br>📚 Se<br>🎯 Criador da Fonzie Agência Digital<br>🎲 Corredor, Kite Surfista,</p>
+<p align="left">✨ Trajetória em evolução na tecnologia.<br>📚 Escola Técnica Fundatec<br>🎯 Criador da Fonzie Agência Digital<br>🎲 Corredor, Kite Surfista,</p>
 
 ###
 
